@@ -1,0 +1,10 @@
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\bin\Debug\WindowsFormsApp92.exe.config
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\bin\Debug\WindowsFormsApp92.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\bin\Debug\WindowsFormsApp92.pdb
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\obj\Debug\WindowsFormsApp92.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\obj\Debug\WindowsFormsApp92.Form1.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\obj\Debug\WindowsFormsApp92.Properties.Resources.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\obj\Debug\WindowsFormsApp92.csproj.GenerateResource.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\obj\Debug\WindowsFormsApp92.csproj.CoreCompileInputs.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\obj\Debug\WindowsFormsApp92.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp92\WindowsFormsApp92\obj\Debug\WindowsFormsApp92.pdb
